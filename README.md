@@ -10,4 +10,4 @@ I am learning front-end development and other cool stuff so this blog will be co
 - Vue and React.
 - etc.
 
-Check it out [here](http://JosueMagnus.github.io "here") 👈
+Check it out [here](http://JosueMagnus12.github.io "here") 👈
